@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mraj101
 - 👀 I’m interested in full stack web developement with django in the backend and Native Android development
 - 🌱 I’m currently learning Android developement...
-- 💞️ I’m looking to collaborate and learn as web developement as i am a beginner in both android and web.
+- 💞️ I’m looking to collaborate and learn both in android projects and web development project based on django
 - 📫 How to reach me? very easy here is my email: mrajhasnain101@gmail.com 
 
 - 
