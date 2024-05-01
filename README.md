@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mraj101
 - 👀 I’m interested in the whole of technology, to be specific i like big systems such as:Linux or different os'es and want to be part of it one day
 - 🌱 I’m currently learning Web developement...
-- 💞️ I’m looking to collaborate in frontend web projects
+- 💞️ I’m looking to collaborate in frontend /backend node js web projects
 - 📫 How to reach me? here is my email: mrajhasnain101@gmail.com 
 
 <!---
